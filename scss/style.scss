@@ -1,0 +1,36 @@
+
+@import "_header";
+
+h1{
+	color: green;
+}
+.Block {
+}
+.block {
+
+		&_item {
+		}
+}
+.block_item {
+
+		&__ {
+		}
+}
+
+
+body{
+	font-size: 20px;
+	div{
+		font-size: 10px;
+	}
+	
+}
+.Block {
+}
+.block_item {
+}
+.block_item__ {
+}
+.red{
+	color: red;
+}
